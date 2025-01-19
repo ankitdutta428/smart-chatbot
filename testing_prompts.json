@@ -1,0 +1,322 @@
+[
+    {
+        "category": "Banking",
+        "prompts": "What is the balance of my account?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How can I reset my online banking password?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "Can you explain the charges on my credit card statement?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How do I apply for a personal loan?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "What are the interest rates for fixed deposits?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "My debit card has been blocked. What should I do?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How can I activate international transactions for my account?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "What is the process for disputing an unauthorized transaction?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "Can I increase my credit card limit?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How can I update my contact details in the bank records?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "What documents are required for opening a new savings account?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "Do you offer home loans? What are the eligibility criteria?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "Is there any fee for early repayment of loans?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How can I schedule a recurring payment?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "What are the current forex rates for USD to INR?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How do I close my bank account?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "Can I open a joint account online?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How does your rewards program for credit cards work?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "I\u2019ve forgotten my ATM PIN. Can you help me reset it?"
+    },
+    {
+        "category": "Banking",
+        "prompts": "How long does it take for a wire transfer to be processed?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "How can I book an appointment with a specialist?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "What are the visiting hours for patients in the hospital?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Can you share the details of my medical reports?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Do you offer online consultations with doctors?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "What is the cost of a full body checkup?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "How can I access my vaccination records?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Do you have a pharmacy in the hospital?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "What are the insurance policies accepted here?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Is emergency care available 24/7?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "How can I request a second opinion for my diagnosis?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Are there any health packages for senior citizens?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Can I get a digital copy of my test results?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "How do I prepare for an MRI scan?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Are your medical staff multilingual?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "What should I bring for my first consultation?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Can you guide me on post-surgery care?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Do you provide physiotherapy services?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "How do I cancel or reschedule my appointment?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "Can I consult with a dietician at your facility?"
+    },
+    {
+        "category": "Healthcare",
+        "prompts": "What is the process for getting a medical certificate?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Where is my order? Can I track it?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How do I return or exchange a product?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "What is the estimated delivery time for this item?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Can I cancel my order after it has been placed?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Are there any discounts available on electronics today?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How can I apply a coupon code?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "What is the warranty period for this product?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Do you offer cash on delivery?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How do I update my delivery address?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "What is your policy on damaged or defective items?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Can I gift-wrap my order?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Are there any EMI options for payment?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "I haven't received my refund yet. When will it be processed?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "What are the benefits of your premium membership?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How do I check the availability of a product in my area?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Can I pre-order a product that is out of stock?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How can I contact the seller for more details?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Are there additional shipping charges for international orders?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "How do I leave a review for a product?"
+    },
+    {
+        "category": "E-commerce",
+        "prompts": "Can I reorder an item I\u2019ve purchased before?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How do I activate a new SIM card?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "What is the current balance and validity of my prepaid account?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Can you help me switch to a postpaid plan?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How do I enable international roaming on my number?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "What are the charges for 5G data plans?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "My internet connection is not working. Can you help me?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How can I check my call and data usage?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Can I upgrade my broadband speed?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "What are the benefits of your family plans?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "I\u2019ve lost my SIM card. How do I block it?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How do I request a duplicate bill?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Do you provide DND (Do Not Disturb) services?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Can I port my number to another service provider?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How do I set up auto-pay for my monthly bills?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "What is the process for changing my plan?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How can I report network issues in my area?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Are there any offers for new broadband connections?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "Can I activate caller ID on my landline?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "How do I reset the password for my Wi-Fi router?"
+    },
+    {
+        "category": "Telecommunication",
+        "prompts": "What are the terms for terminating my broadband\u00a0subscription?"
+    }
+]
